@@ -17,6 +17,7 @@
     margin: 10px;
     padding: 20px;
     font-size: 30px;
+    color: white;
     text-align: center;
     flex-grow: 1;
     width: 200px;
@@ -26,5 +27,5 @@
 }
 
 .h3 {
-    font-size: 32px;
+    font-size: 48px;
 }
