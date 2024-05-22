@@ -33,26 +33,26 @@ img {
 
 h1 {
     color: white;
-    font-size: large;
+    font-size: medium;
     padding: 50px 25px 20px 25px;
 }
 
 p {
     color: white;
-    font-size: medium;
+    font-size: small;
     padding: 50px 25px 20px 25px;
 }
 
 @media only screen and (max-width: 400px) {
     h1 {
         color: white;
-        font-size: 54px;
+        font-size: medium;
         padding: 50px 25px 20px 25px;
     }
     
     p {
         color: white;
-        font-size: 34px;
+        font-size: small;
         padding: 50px 25px 20px 25px;
     }
 }
