@@ -38,6 +38,14 @@ h1 {
 
 p {
     color: white;
-    font-size: 24px;
+    font-size: 20px;
     padding: 50px 25px 20px 25px;
+}
+
+@media only screen and (max-width: 400px) {
+    p {
+        color: white;
+        font-size: 34px;
+        padding: 50px 25px 20px 25px;
+    }
 }
