@@ -26,11 +26,12 @@
     border-radius: 32px;
 }
 
-.img {
+img {
     width: 100%;
     height: auto;
 }
 
-.h1 {
+h1 {
     color: white;
+    padding: 35px 25px 25px 25px;
 }
